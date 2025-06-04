@@ -3,7 +3,7 @@
 **Output Images**
 ![Image Alt]()
 ![Image Alt]()
-![Image Alt]()
+![Image Alt](addNewStore.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
