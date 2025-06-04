@@ -1,11 +1,11 @@
 # Store Rating Management Application
 
 **Output Images**
-![Image Alt]()
-![Image Alt]()
+![Image Alt](admin_dash.png)
+![Image Alt](admin_store.png)
+![Image Alt](admin_user.png)
 ![Image Alt](addNewStore.png)
-![Image Alt]()
-![Image Alt]()
+![Image Alt](addNewUser.png)
 ![Image Alt]()
 ![Image Alt]()
 ![Image Alt]()
