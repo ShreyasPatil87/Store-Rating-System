@@ -1,18 +1,18 @@
 # Store Rating Management Application
 
 **Output Images**
+![Image Alt](login.png)
+![Image Alt](register.png)
 ![Image Alt](admin_dash.png)
 ![Image Alt](admin_store.png)
 ![Image Alt](admin_user.png)
 ![Image Alt](addNewStore.png)
 ![Image Alt](addNewUser.png)
-![Image Alt]()
-![Image Alt]()
-![Image Alt]()
-![Image Alt]()
-![Image Alt]()
-![Image Alt]()
-![Image Alt]()
+![Image Alt](storeOwner_dash.png)
+![Image Alt](storeOwner_profile.png)
+![Image Alt](user_dash.png)
+![Image Alt](user_profile.png)
+![Image Alt](user_store.png)
 
 ## 🚀 Overview
 A web application that enables users to submit and manage ratings for stores registered on the platform. It features role-based access for different types of users.
